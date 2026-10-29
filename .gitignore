@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.blend1
+*.blend@
+# local stuff that must not go public
+backup/
+*.zip
+*.dem
+*.map
+*.shot
+rust_blender_cache/
